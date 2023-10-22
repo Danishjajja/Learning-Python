@@ -1,0 +1,16 @@
+# print("Hello Danish, how are you")
+# print("hello world")
+# print("hello danish")
+# name:list[str] =["a","b","g"]
+# print(name)
+# print(type(name))
+# print(id(name))
+# print([i for i in dir(name) if"-" not in i])
+# name:tuple[str,int,float] =("Pakistan",7864,786786)
+# print(type(name))
+# print(id(name))
+# print([i for i in dir(name) if"-" not in i])
+name:int="jajja"
+print(type(name))
+print(id(name))
+print([i for i in dir(name) if"-" not in i])
